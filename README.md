@@ -2,13 +2,9 @@
 
 <div align="center">
   
-# Hey, I'm Rafi Kurniawan! 👨‍💻
+# Hey, I'm Rafi! 👨‍💻
 
-<!-- Ganti URL_GAMBAR_ANDA dengan link gambar cosmic raven Anda -->
-<img src="https://i.imgur.com/your-image.jpg" alt="Cosmic Raven Banner" width="100%"/>
-
-<!-- ATAU jika sudah upload ke repository, pakai ini: -->
-<!-- <img src="./cosmic-raven.jpg" alt="Cosmic Raven Banner" width="100%"/> -->
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=400&fit=crop" alt="Coding Banner" width="100%"/>
 
 </div>
 
@@ -49,14 +45,14 @@ Here's what I love to build with:
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafi-Kurniawan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi-Kurniawan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafikurniawan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikurniawan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafi-Kurniawan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafikurniawan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -66,17 +62,7 @@ Here's what I love to build with:
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rafi-Kurniawan&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💻 Contribution Graph
-
-<div align="center">
-
-[![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafi-Kurniawan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafikurniawan&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -90,7 +76,7 @@ Feel free to reach out to me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ye_fann.23)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurniawanrafi421@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi-Kurniawan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafikurniawan)
 
 </div>
 
@@ -100,8 +86,4 @@ Feel free to reach out to me:
 
 ### 💡 _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rafi-Kurniawan&color=blueviolet&style=for-the-badge)
-
-**Made with ❤️ from Indonesia 🇮🇩**
-
-</div>
+![
