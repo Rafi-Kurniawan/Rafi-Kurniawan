@@ -10,7 +10,34 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
+```javascript
+const rafi = {
+    name: "Rafi Kurniawan",
+    role: "Full Stack Developer",
+    location: "Indonesia 🇮🇩",
+    education: "Computer Science Student",
+    code: ["HTML", "CSS", "JavaScript", "Java", "Python"],
+    askMeAbout: ["web dev", "tech", "design"],
+    technologies: {
+        frontEnd: {
+            languages: ["HTML5", "CSS3", "JavaScript"],
+            frameworks: ["Learning React..."]
+        },
+        backEnd: {
+            languages: ["Java", "JavaScript"],
+            runtime: ["Node.js"],
+        },
+        databases: ["MySQL", "MongoDB"],
+        tools: ["GitHub", "Figma", "VS Code"],
+    },
+    currentFocus: "Building Full-Stack Applications",
+    funFact: "I debug with console.log() 😄"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
@@ -72,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikurniawan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikurniawan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafikurniawan&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
