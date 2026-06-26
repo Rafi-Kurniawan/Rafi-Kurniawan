@@ -22,22 +22,6 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
-
-```yaml
-name: Rafi Kurniawan
-location: Indonesia 🇮🇩
-currently_learning: ["Web Development", "Artificial Intelligence"]
-interests: ["Coding", "Problem Solving", "UI/UX Design"]
-fun_fact: "I debug with console.log() and I'm proud of it 😄"
-```
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
@@ -65,6 +49,28 @@ fun_fact: "I debug with console.log() and I'm proud of it 😄"
 <br><b>GitHub</b>
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" width="65" height="65" />
+<br><b>PHP</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="65" height="65" />
+<br><b>Laravel</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" alt="Laragon" width="65" height="65" />
+<br><b>Laragon</b>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="pgAdmin" width="65" height="65" />
+<br><b>pgAdmin</b>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/en/7/78/XAMPP_logo.svg" alt="XAMPP" width="65" height="65" />
+<br><b>XAMPP</b>
+</td>
+</tr>
 </table>
 
 <br>
@@ -72,11 +78,16 @@ fun_fact: "I debug with console.log() and I'm proud of it 😄"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -109,39 +120,11 @@ fun_fact: "I debug with console.log() and I'm proud of it 😄"
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rafi-Kurniawan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies"/>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
 ## 📊 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafi-Kurniawan&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD&hide_border=true" alt="Activity Graph" width="95%"/>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
 
