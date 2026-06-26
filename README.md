@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rafi%20Kurniawan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ye%20Fann&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" alt="Header"/>
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafi-Kurniawan&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Fann&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
