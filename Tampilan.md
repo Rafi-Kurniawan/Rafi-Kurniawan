@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rafi%20Kurniawan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rafi%20Kurniawan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" alt="Header"/>
 
 <div align="center">
 
@@ -130,4 +130,4 @@
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=20" width="100%" alt="Footer"/>
